@@ -1,5 +1,5 @@
 # Responsive-Animated-Text-Blocks-Liquid-Responsive
-Some applied concepts of liquid responsiveness
+Some applied concepts of liquid responsiveness.
 
 Codepen link --> https://codepen.io/ANDREGABRIELS/pen/zYpPLwo
 
