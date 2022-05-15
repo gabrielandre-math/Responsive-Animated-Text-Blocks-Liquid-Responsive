@@ -23,9 +23,7 @@ h1 {
     box-sizing: border-box;
 }
 
-.row {
-    transition: 1s;
-}
+.row { transition: 1s; }
 
 .column {
     background: #151618;
