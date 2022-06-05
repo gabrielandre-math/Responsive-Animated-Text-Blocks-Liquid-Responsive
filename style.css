@@ -34,7 +34,6 @@ h1 {
     vertical-align: middle;
     transition: 1s;
 }
-
 .row:nth-child(1) .column:nth-child(odd) { background: #7a7a7a; }
 
 .row:nth-child(1) .column:nth-child(2) { background: #4c4c4c; }
