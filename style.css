@@ -34,7 +34,6 @@ h1 {
 .row:nth-child(1) .column:nth-child(2) { background: #4c4c4c; }
 .row:nth-child(2) .column:nth-child(odd) { background: #4c4c4c; }
 .row:nth-child(2) .column:nth-child(2) { background: #7a7a7a; }
-
 @media(max-width: 768px) {
     h1 {
         font-size: 2.25rem;
